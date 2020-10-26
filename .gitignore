@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-static/js/config.js
+/static/js/config.js
 
 __pycache__/
 *.py[cod]
